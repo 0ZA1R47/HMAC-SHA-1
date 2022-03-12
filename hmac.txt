@@ -1,0 +1,1 @@
+This is a dummy text for generating HMAC using SHA-1 algorithm
